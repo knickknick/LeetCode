@@ -27,9 +27,4 @@ public class ReverseLinkedList {
 		 }
 		 return pre;
      }
-	 
-	public static void main(String[] args) {
-
-	}
-
 }

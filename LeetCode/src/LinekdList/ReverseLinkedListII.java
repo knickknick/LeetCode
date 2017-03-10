@@ -48,9 +48,4 @@ public class ReverseLinkedListII {
 
         return begin.next;
     }
-	
-	public static void main(String[] args) {
-
-	}
-
 }

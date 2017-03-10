@@ -47,10 +47,4 @@ public class RemoveNthNodeFromEndofList {
 		 jtemp.next = itemp.next;
 		 return head;
 	  }
-	
-	
-	public static void main(String[] args) {
-		
-	}
-
 }
